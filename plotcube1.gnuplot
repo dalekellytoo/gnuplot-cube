@@ -1,0 +1,1 @@
+splot 'cube.txt' with lines
